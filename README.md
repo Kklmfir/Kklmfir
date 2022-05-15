@@ -12,7 +12,7 @@
    * My IDE: Vim
    * Sublime-text is my favorite GUI code editor ❤️
 
-#### Github Stats <img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="16px" heigh="18px">
+#### Github Stats <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.gif" width="20px" heigh="20px">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kklmfir&show_icons=true&theme=radical)<br>
 
 #### Contact Me <img src="https://media.giphy.com/media/cHw1sFUAfZcZfcLjq9/giphy.gif" width="16px">
