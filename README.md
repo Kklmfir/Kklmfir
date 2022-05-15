@@ -12,10 +12,10 @@
    * My IDE: Vim
    * Sublime-text is my favorite GUI code editor ❤️
 
-#### Github Stats
+#### Github Stats <img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" width="16px" heigh="18px">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kklmfir&show_icons=true&theme=radical)<br>
 
-#### Contact Me
+#### Contact Me <img src="https://media.giphy.com/media/cHw1sFUAfZcZfcLjq9/giphy.gif" width="16px">
 <!--Personal-->
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/Almfarka70)
 [![](https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=Red&labelColor=white)](https://instagram.com/kklmfir)
