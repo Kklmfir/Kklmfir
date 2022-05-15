@@ -15,7 +15,7 @@
 #### Github Stats <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.gif" width="20px" heigh="20px">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kklmfir&show_icons=true&theme=radical)<br>
 
-#### Contact Me <img src="https://media.giphy.com/media/cHw1sFUAfZcZfcLjq9/giphy.gif" width="16px">
+#### Contact Me <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.webp" width="20px">
 <!--Personal-->
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/Almfarka70)
 [![](https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=Red&labelColor=white)](https://instagram.com/kklmfir)
