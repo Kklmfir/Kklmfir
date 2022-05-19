@@ -1,6 +1,6 @@
 ## Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
   > This is my personal github
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently [work](kklmfir.home.com)ing on nothing
 - 🌱 I’m student who like physics
 - 👯 I’m looking to collaborate on [nothing](kklmfir.home.blog)
 - 🤔 I’m looking for help with [google](google.com)
