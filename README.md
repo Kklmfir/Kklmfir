@@ -21,6 +21,10 @@
 [![](https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=Red&labelColor=white)](https://instagram.com/kklmfir)
 [![](https://img.shields.io/reddit/user-karma/link/kklmfir?color=white&label=reddit&logo=reddit&style=social)](http://reddit.com/u/kklmfir)
 [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/kklmfir) <br/>
+<!-- 
+[![](https://img.shields.io/badge/Reddit-orange?logo=Reddit&logoColor=Tomato&labelColor=white)](http://reddit.com/user/kklmfir) <br/>
+-->
+
 <!--Channel-->
 [![](https://img.shields.io/badge/Channel-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/T3l3grannIn9p0lurrr)
 [![](https://img.shields.io/badge/Channel-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/Ch4nn3lNPC)
